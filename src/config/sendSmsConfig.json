@@ -1,0 +1,9 @@
+{
+    "readme": "Bellow goes TWILIO config to send SMS messages - Change the information bellow with your Twilio Config info - Remember to add this file to the .gitignore file path: src/config/ - You should delete this line after reading",
+    "accountSid": "YOUR TWILIO ACCOUNT SID",
+    "authToken":  "YOUR TWILIO AUTH TOKEN",
+    "fromsms": "YOUR TWILIO MOBILE NUMBER"
+}
+
+
+

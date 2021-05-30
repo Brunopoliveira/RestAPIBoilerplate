@@ -1,0 +1,8 @@
+{
+"readme": "Bellow goes SMTP config to send emails - Change the information bellow with your SMTP Server Config info - Remember to add this file to the .gitignore file path: src/config/ - You should delete this line after reading",
+"host": "mail.YOURSMTPSERVER.com",
+"port": 2525,
+"user": "YOUR SMTP USER",
+"pass": "YOUR SMTP PASSWORD",
+"contactusmailaddress": "YOUR COMPANY CONTACT US EMAIL ADDRESS"
+}

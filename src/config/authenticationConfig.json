@@ -1,0 +1,4 @@
+{
+    "readme": "Bellow goes a SHA-256 secret to be used within the generated Token - Remember to add this file to the .gitignore file path: src/config/ - You should delete this line after reading",
+    "secret": "4c0aff01d629fe471a45df248c663263f2640632d86133fb72a2b1fd642ef759"
+}
