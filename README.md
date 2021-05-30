@@ -2,11 +2,17 @@
 
 This is a REST API BOILERPLATE created using NODE.JS, Express, Javascript, Mongoose, MongoDB, SMTP and Twilio.
 
-Before running:
-Remember to change the /src/database/index.js file with your MongoDB connection settings info
-Remember to change the /src/config files with your SMTP and Twilio config info
+<b>Before running:</B>
 
-Remember to change the models and controllers files according tou your database and API data structure
+<ul>
+
+<li><b>Remember to change the /src/database/index.js file with your MongoDB connection settings info</b></li>
+
+<li><b>Remember to change the /src/config files with your SMTP and Twilio config info</b></li>
+
+<li><b>Remember to change the models and controllers files according tou your database and API data structure</b></li>
+
+</ul>
 
 <h1>Setup</h1>
 <br>
