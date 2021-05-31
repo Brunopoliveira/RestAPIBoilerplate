@@ -2,7 +2,7 @@
 
 This is a REST API BOILERPLATE created using NODE.JS, Express, Javascript, Mongoose, MongoDB, SMTP and Twilio.
 
-<b>My thanks and credits to the <a href="https://rocketseat.com.br/">Rocketseat</ßa> Dev community who provided me the guidelines and knowledge to build this code</b>
+<b>My thanks and credits to the <a href="https://rocketseat.com.br/">Rocketseat</a> Dev community who provided me the guidelines and knowledge to build this code</b>
 
 <b>Before running:</B>
 
