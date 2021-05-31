@@ -12,6 +12,8 @@ This is a REST API BOILERPLATE created using NODE.JS, Express, Javascript, Mongo
 
 <li><b>Remember to change the models and controllers files according tou your database and API data structure</b></li>
 
+<li><b>Remember to add the database and config files to the .gitignore file</b></li>
+
 </ul>
 
 <h1>Setup</h1>

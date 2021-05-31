@@ -1,6 +1,6 @@
 {
   "name": "restapiboilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "REST API BOILERPLATE",
   "main": "index.js",
   "scripts": {

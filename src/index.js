@@ -16,7 +16,7 @@ require('./app/controllers/index')(app);
 
 app.get('/', function (req, res) {
 
-    res.send('REST API BOILERPLATE v0.0.1')
+    res.send('REST API BOILERPLATE v0.0.2')
   
   })
 
